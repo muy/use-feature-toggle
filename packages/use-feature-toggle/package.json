@@ -33,8 +33,8 @@
   "devDependencies": {
     "@babel/preset-env": "7.9.6",
     "@stryker-mutator/core": "3.1.0",
-    "@stryker-mutator/javascript-mutator": "^3.1.0",
-    "@stryker-mutator/jest-runner": "^3.1.0",
+    "@stryker-mutator/javascript-mutator": "3.1.0",
+    "@stryker-mutator/jest-runner": "3.1.0",
     "babel-jest": "26.0.1",
     "jest": "26.0.1",
     "stryker-cli": "1.0.0"
