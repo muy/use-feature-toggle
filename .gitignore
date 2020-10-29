@@ -1,1 +1,17 @@
+# Coverage files
+clover.xml
+coverage
+coverage-final.json
+lcov.info
+lcov-report
+
+# Log files
+lerna-debug.log
+
+# Node modules
 node_modules
+
+# Stryker files
+reports
+sandbox*
+.stryker-tmp
