@@ -1,0 +1,11 @@
+.stryker-tmp
+packages/use-feature-toggle/.stryker-tmp
+
+coverage
+packages/use-feature-toggle/coverage
+
+node_modules
+packages/use-feature-toggle/node_modules
+
+package-lock.json
+packages/use-feature-toggle/package-lock.json
