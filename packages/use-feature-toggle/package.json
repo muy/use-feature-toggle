@@ -1,0 +1,42 @@
+{
+  "name": "use-feature-toggle",
+  "version": "0.0.0",
+  "description": "Feature toggle hook for React-based projects",
+  "keywords": [
+    "feature",
+    "toggle",
+    "hook",
+    "react"
+  ],
+  "author": "Jimmy Andrade <jimmy.andrade@thoughtworks.com>",
+  "homepage": "https://github.com/muy/use-feature-toggle#readme",
+  "license": "ISC",
+  "main": "dist/index.cjs.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muy/use-feature-toggle.git"
+  },
+  "scripts": {
+    "stryker": "stryker run",
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/muy/use-feature-toggle/issues"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "7.9.6",
+    "@stryker-mutator/core": "3.1.0",
+    "@stryker-mutator/javascript-mutator": "^3.1.0",
+    "@stryker-mutator/jest-runner": "^3.1.0",
+    "babel-jest": "26.0.1",
+    "jest": "26.0.1",
+    "stryker-cli": "1.0.0"
+  }
+}
